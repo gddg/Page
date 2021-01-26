@@ -18,12 +18,12 @@
 - ![ http://dict.cn/ ](http://dict.cn/   )  http://dict.cn/
 
 
-- ![awesome-rust](https://github.com/favicon.ico " " )   https://github.com/rust-unofficial/awesome-rust
+- ![awesome-rust]( https://github.com/favicon.ico " ")   https://github.com/rust-unofficial/awesome-rust
 
 
 - [awesome-rust](  https://github.com/rust-unofficial/awesome-rust )
 
-- [awesome-modern-cpp](  https://github.com/rigtorp/awesome-modern-cpp )
+- ![ ](https://github.com/favicon.ico " ") [awesome-modern-cpp](  https://github.com/rigtorp/awesome-modern-cpp )
 
 
 
