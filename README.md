@@ -18,7 +18,7 @@
 - ![ ](http://dict.cn/favicon.ico   ) [dict](  http://dict.cn/)
 
 
-- ![awesome-rust]( https://github.com/favicon.ico " ")   https://github.com/rust-unofficial/awesome-rust
+- ![ ]( https://github.com/favicon.ico " ") [awesome-rust ](  https://github.com/rust-unofficial/awesome-rust ) 
 
 
 
