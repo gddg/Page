@@ -21,9 +21,15 @@
 - ![awesome-rust]( https://github.com/favicon.ico " ")   https://github.com/rust-unofficial/awesome-rust
 
 
-- [awesome-rust](  https://github.com/rust-unofficial/awesome-rust )
 
 - ![ ](https://github.com/favicon.ico " ") [awesome-modern-cpp](  https://github.com/rigtorp/awesome-modern-cpp )
+
+- ![ ](https://github.com/favicon.ico " ") [ awesome-go-cn ](  https://github.com/jobbole/awesome-go-cn )
+
+
+
+
+
 
 
 
