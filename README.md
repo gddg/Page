@@ -18,6 +18,8 @@
 - ![ http://dict.cn/ ](http://dict.cn/   )  http://dict.cn/
 
 
+- ![awesome-rust](https://github.com/rust-unofficial/awesome-rust " " )   https://github.com/rust-unofficial/awesome-rust
+
 
 
 
