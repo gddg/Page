@@ -18,7 +18,7 @@
 - ![ ](http://dict.cn/favicon.ico   ) [dict](  http://dict.cn/)
 
 
-- ![ ]( https://github.com/favicon.ico " ") [awesome-rust ](  https://github.com/rust-unofficial/awesome-rust ) 
+- ![ ]( https://github.com/favicon.ico " ") [ awesome-rust ](  https://github.com/rust-unofficial/awesome-rust ) 
 
 
 
@@ -27,11 +27,16 @@
 - ![ ](https://github.com/favicon.ico " ") [ awesome-go-cn ](  https://github.com/jobbole/awesome-go-cn )
 
 
-- ![ ](https://github.com/favicon.ico " ") [ awesome-quant 中文Quant相关资源索引 ](   https://github.com/moonnejs/awesome-quant  )
+- ![ ](  https://github.com/favicon.ico " ") [ awesome-quant 中文Quant相关资源索引 ](   https://github.com/moonnejs/awesome-quant  )
 
 
 
-- ![ ](  https://quick-bench.com/favicon.ico " ") [ 在线banchmark ](    https://quick-bench.com/q/ezpt1LZUIJ7mJCKK5n3V-J-HUcc  )
+- ![ ](  https://quick-bench.com/favicon.ico " ") [ 在线banchmark quick-bench ](    https://quick-bench.com/q/ezpt1LZUIJ7mJCKK5n3V-J-HUcc  )
+
+
+- ![ ](   https://github.com/favicon.ico " ") [   awesome-shell  ](  https://github.com/alebcay/awesome-shell   )
+
+
 
 
 
