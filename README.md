@@ -13,5 +13,5 @@
 
 - ![https://godbolt.org](https://godbolt.org/favicon.ico "godbolt" )  https://godbolt.org 
 
-- ![rust在线编译](https://play.rust-lang.org/favicon.ico "rust在线编译" )  https://play.rust-lang.org 
+- ![rust鍦ㄧ嚎缂栬瘧](https://play.rust-lang.org/favicon.ico "rust鍦ㄧ嚎缂栬瘧" )  https://play.rust-lang.org 
 
