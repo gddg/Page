@@ -27,6 +27,8 @@
 - ![ ](https://github.com/favicon.ico " ") [ awesome-go-cn ](  https://github.com/jobbole/awesome-go-cn )
 
 
+- ![ ](https://github.com/favicon.ico " ") [ awesome-quant 中文Quant相关资源索引 ](   https://github.com/moonnejs/awesome-quant  )
+
 
 
 
