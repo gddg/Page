@@ -15,3 +15,15 @@
 
 - ![rust在线编译](https://play.rust-lang.org/favicon.ico "rust在线编译" )  https://play.rust-lang.org 
 
+- ![ http://dict.cn/ ](http://dict.cn/   )  http://dict.cn/
+
+
+
+
+
+
+
+
+
+
+
