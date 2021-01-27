@@ -45,15 +45,11 @@
 
 
 
-
 https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html
 
 
 - ![ ](   https://stackedit.io/favicon.ico " ") [  åœ¨markdown stackedit  ](  https://stackedit.io/app#   )
 
-
-
- 
 
 
 
@@ -75,3 +71,13 @@ https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html
 https://github.com/Belgorodsky/BoostAsioCppNetworkProgrammingCookbookDmitroRadchuk
 
 
+https://github.com/TNG/boost-python-examples
+
+
+
+# os
+
+
+Éý¼¶gcc
+
+https://developers.redhat.com/blog/2019/03/05/yum-install-gcc-8-clang-6/
