@@ -13,7 +13,7 @@
 
 - ![https://godbolt.org](https://godbolt.org/favicon.ico "godbolt" )  https://godbolt.org 
 
-- ![rust在线编译](https://play.rust-lang.org/favicon.ico "rust在线编译" )  https://play.rust-lang.org 
+- ![rust鍦ㄧ嚎缂栬瘧](https://play.rust-lang.org/favicon.ico "rust鍦ㄧ嚎缂栬瘧" )  https://play.rust-lang.org 
 
 - ![ ](http://dict.cn/favicon.ico   ) [dict](  http://dict.cn/)
 
@@ -27,18 +27,18 @@
 - ![ ](https://github.com/favicon.ico " ") [ awesome-go-cn ](  https://github.com/jobbole/awesome-go-cn )
 
 
-- ![ ](  https://github.com/favicon.ico " ") [ awesome-quant 中文Quant相关资源索引 ](   https://github.com/moonnejs/awesome-quant  )
+- ![ ](  https://github.com/favicon.ico " ") [ awesome-quant 涓枃Quant鐩稿叧璧勬簮绱㈠紩 ](   https://github.com/moonnejs/awesome-quant  )
 
 
 
-- ![ ](  https://quick-bench.com/favicon.ico " ") [ 在线banchmark quick-bench ](    https://quick-bench.com/q/ezpt1LZUIJ7mJCKK5n3V-J-HUcc  )
+- ![ ](  https://quick-bench.com/favicon.ico " ") [ 鍦ㄧ嚎banchmark quick-bench ](    https://quick-bench.com/q/ezpt1LZUIJ7mJCKK5n3V-J-HUcc  )
 
 
 - ![ ](   https://github.com/favicon.ico " ") [   awesome-shell  ](  https://github.com/alebcay/awesome-shell   )
 
 
 
-- ![ ](   https://cppinsights.io/favicon.ico " ") [   cppinsights 在线c++  ](  https://cppinsights.io/   )
+- ![ ](   https://cppinsights.io/favicon.ico " ") [   cppinsights 鍦ㄧ嚎c++  ](  https://cppinsights.io/   )
 
 
 
@@ -48,7 +48,7 @@
 https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html
 
 
-- ![ ](   https://stackedit.io/favicon.ico " ") [  在markdown stackedit  ](  https://stackedit.io/app#   )
+- ![ ](   https://stackedit.io/favicon.ico " ") [  鍦╩arkdown stackedit  ](  https://stackedit.io/app#   )
 
 
 
@@ -58,6 +58,8 @@ https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html
 
 
 # BLOG 
+
+## c++高手ｂｌｏｇ　
 
 - ![ ](   https://www.acodersjourney.com/favicon.ico " ") [ acodersjourney     ](   https://www.acodersjourney.com/20-abi-breaking-changes/     )
 
@@ -78,7 +80,7 @@ https://github.com/TNG/boost-python-examples
 
 # lang
 
-���İ� Apple �ٷ� Swift �̡̳�The Swift Programming Language��
+中文版 Apple 官方 Swift 教程《The Swift Programming Language》
 <https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese>
 
 
@@ -89,7 +91,7 @@ https://github.com/TNG/boost-python-examples
 # os
 
 
-����gcc
+升级gcc
 
 https://developers.redhat.com/blog/2019/03/05/yum-install-gcc-8-clang-6/   
 
