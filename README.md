@@ -57,6 +57,9 @@ https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html
 - ![ ](   https://github.com/favicon.ico " ") [   spdlog pattern-flags  ](   https://github.com/gabime/spdlog/wiki/3.-Custom-formatting#pattern-flags  )
 
 
+# BLOG 
+
+- ![ ](   https://www.acodersjourney.com/favicon.ico " ") [ acodersjourney     ](   https://www.acodersjourney.com/20-abi-breaking-changes/     )
 
 
 
@@ -73,6 +76,14 @@ https://github.com/Belgorodsky/BoostAsioCppNetworkProgrammingCookbookDmitroRadch
 
 https://github.com/TNG/boost-python-examples
 
+# lang
+
+中文版 Apple 官方 Swift 教程《The Swift Programming Language》
+<https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese>
+
+
+
+
 
 
 # os
@@ -80,4 +91,11 @@ https://github.com/TNG/boost-python-examples
 
 升级gcc
 
-https://developers.redhat.com/blog/2019/03/05/yum-install-gcc-8-clang-6/
+https://developers.redhat.com/blog/2019/03/05/yum-install-gcc-8-clang-6/   
+
+
+
+
+
+
+
