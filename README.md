@@ -11,6 +11,9 @@
 
 # online tools 
 
+-   C++类库比较libhunt  https://cpp.libhunt.com/categories
+
+
 
 - ![https://godbolt.org](https://godbolt.org/favicon.ico "godbolt" )  https://godbolt.org 
 
@@ -56,6 +59,10 @@ https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html
 
 
 - ![ ](   https://github.com/favicon.ico " ") [   spdlog pattern-flags  ](   https://github.com/gabime/spdlog/wiki/3.-Custom-formatting#pattern-flags  )
+
+
+
+- ![ ]( https://github.com/favicon.ico " ") [  跟我一起写Makefile  ](   https://seisman.github.io/how-to-write-makefile/introduction.html )
 
 
 # BLOG 
