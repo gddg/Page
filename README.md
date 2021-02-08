@@ -11,67 +11,60 @@
 
 # online tools 
 
--   C++类库比较libhunt  https://cpp.libhunt.com/categories
 
 
+# C++ 
 
-- ![https://godbolt.org](https://godbolt.org/favicon.ico "godbolt" )  https://godbolt.org 
-
-- ![rust ](https://play.rust-lang.org/favicon.ico "rust " )  https://play.rust-lang.org 
-
-- ![ ](http://dict.cn/favicon.ico   ) [dict](  http://dict.cn/)
-
-
-- ![ ]( https://github.com/favicon.ico " ") [ awesome-rust ](  https://github.com/rust-unofficial/awesome-rust ) 
-
-
-
-- ![ ](https://github.com/favicon.ico " ") [awesome-modern-cpp](  https://github.com/rigtorp/awesome-modern-cpp )
-
-- ![ ](https://github.com/favicon.ico " ") [ awesome-go-cn ](  https://github.com/jobbole/awesome-go-cn )
-
-
-- ![ ](  https://github.com/favicon.ico " ") [ awesome-quant  china finance ](   https://github.com/moonnejs/awesome-quant  )
-
-
-
-- ![ ](  https://quick-bench.com/favicon.ico " ") [ cpp banchmark quick-bench ](    https://quick-bench.com/q/ezpt1LZUIJ7mJCKK5n3V-J-HUcc  )
-
-
-- ![ ](   https://github.com/favicon.ico " ") [   awesome-shell  ](  https://github.com/alebcay/awesome-shell   )
-
-
-
-- ![ ](   https://cppinsights.io/favicon.ico " ") [   cppinsights 安全检查c++  ](  https://cppinsights.io/   )
+| 1 |   2 | 3 |4  |5  |6|7|8|
+| :-----:| :----: | :----: |:----: |:----: |:----: |:----: |:----: | 
+|  [  godbolt.org ](https://godbolt.org)    |   [C++类库比较libhunt]<br>  https://cpp.libhunt.com/categories   |  [awesome-modern-cpp](  https://github.com/rigtorp/awesome-modern-cpp )  |  [ cppbanchmark quick-bench ](    https://quick-bench.com/q/ezpt1LZUIJ7mJCKK5n3V-J-HUcc  )   | [   cppinsights 安全检查c++  ](  https://cppinsights.io/   ) |    | | |
+| [ openGL 教学 ](https://learnopengl-cn.github.io/) |  cppinsights <br> https://cppinsights.io/ | 单元格 |
+|||||||跟我一起写Makefile <br> https://seisman.github.io/how-to-write-makefile/introduction.html |
+|||| |boost-python-examples <br> https://github.com/TNG/boost-python-examples | |
+|高手blog||||||
+|acodersjourney   <br> https://www.acodersjourney.com/20-abi-breaking-changes/  |   [   spdlog pattern-flags  ]<br>  https://github.com/gabime/spdlog/wiki/3.-Custom-formatting#pattern-flags   |||||
 
 
 
 
 
+# Go
 
-https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html
+|  1 | 2    |  3 |   4 | 5    |  6 |
+| :-----:| :----: | :----: |:-----:| :----: | :----: |
+|   [ awesome-go-cn ](  https://github.com/jobbole/awesome-go-cn ) | -    |  - |   - | -    |  - |
 
-
-- ![ ](   https://stackedit.io/favicon.ico " ") [ markdown stackedit  ](  https://stackedit.io/app#   )
-
-
-
-
-
-- ![ ](   https://github.com/favicon.ico " ") [   spdlog pattern-flags  ](   https://github.com/gabime/spdlog/wiki/3.-Custom-formatting#pattern-flags  )
+ 
 
 
+ # tools
 
-- ![ ]( https://github.com/favicon.ico " ") [  跟我一起写Makefile  ](   https://seisman.github.io/how-to-write-makefile/introduction.html )
+|  1 | 2    |  3 |   4 | 5    | 6 | 7| 8 | 
+| :-----:| :----: | :----: |:-----:| :----: | :----: |:----: | :----: |
+| [dict]   <br>  http://dict.cn/ |   awesome-shell <br> https://github.com/alebcay/awesome-shell   ||||-| -|- |
+||||||-| -|- |
+|stackedit <br>   https://stackedit.io/app#    |||||-| -|- |
+
+ # rust 
+
+|  1 | 2    |  3 |   4 | 5    | 6 | 7| 8 | 
+| :-----:| :----: | :----: |:-----:| :----: | :----: |:----: | :----: |
+|   [rust-lang.org ] <br> https://play.rust-lang.org  |[ awesome-rust ] <br>   https://github.com/rust-unofficial/awesome-rust  |  awesome-quant  <br> https://github.com/moonnejs/awesome-quant| benchmarksgame    <br>   https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html    |   |-| -|- |
 
 
-# BLOG 
+ 
 
-## c++高手ｂｌｏｇ　
+ 
+ 
 
-- ![ ](   https://www.acodersjourney.com/favicon.ico " ") [ acodersjourney     ](   https://www.acodersjourney.com/20-abi-breaking-changes/     )
 
 
+
+
+
+
+
+ 
 
 
 
@@ -84,7 +77,7 @@ https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html
 https://github.com/Belgorodsky/BoostAsioCppNetworkProgrammingCookbookDmitroRadchuk
 
 
-https://github.com/TNG/boost-python-examples
+
 
 # lang
 
